@@ -8,8 +8,10 @@ public class VariableReview {
      * 3 - boolean: These questions are answered with a boolean, a type that references one of two values: true or false.
      */
     int age = 35;
+    double salary = 50000.87;
 
     System.out.println(name);
     System.out.println(age);
+    System.out.println(salary);
   }
 }
