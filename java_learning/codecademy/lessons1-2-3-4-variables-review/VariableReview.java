@@ -1,6 +1,7 @@
 public class VariableReview {
   public static void main(String[] args) {
     /*We store information (data) in variables, named locations in memory. Variables also give context and meaning to the data we’re storing. Our programs will also use Strings, which are objects, instead of primitives. Objects have built-in behavior. Strings hold sequences of characters*/
+    String profile = "Employee Status";
     String name = "Deckard";
     /*There are three primitive datatypes built-in to the Java system. The three main primitive types:
      * 1 - int: The first type of data we will store is the whole number Ex: number 22 (The int data type allows values between -2,147,483,648 and 2,147,483,647, inclusive)
@@ -8,10 +9,18 @@ public class VariableReview {
      * 3 - boolean: These questions are answered with a boolean, a type that references one of two values: true or false.
      */
     int age = 35;
-    double salary = 50000.87;
-
+    double salaryExpected = 5769.87;
+    boolean isEmployed = true;
+    /*The char data type can hold any character, like a letter, space, or punctuation mark.
+    It must be surrounded by single quotes, '.*/
+    char levelGrade = 'A';
+    //With the sentence below you can print elements on the screen
+    System.out.println(profile);
     System.out.println(name);
     System.out.println(age);
-    System.out.println(salary);
+    System.out.println(salaryExpected);
+    System.out.println(isEmployed);
+    System.out.println(levelGrade);
+
   }
 }
