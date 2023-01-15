@@ -9,7 +9,6 @@ public class VariableReview {
      */
     int age = 35;
     double salary = 50000.87;
-
     System.out.println(name);
     System.out.println(age);
     System.out.println(salary);
