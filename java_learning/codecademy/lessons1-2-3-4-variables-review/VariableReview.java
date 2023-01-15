@@ -9,8 +9,10 @@ public class VariableReview {
      */
     int age = 35;
     double salary = 50000.87;
+    boolean IsSalaryMoreThan = salary >= 45000;
     System.out.println(name);
     System.out.println(age);
     System.out.println(salary);
+    System.out.println("The salary is more than $45.000? " + IsSalaryMoreThan);
   }
 }
