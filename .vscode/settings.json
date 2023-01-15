@@ -1,11 +1,12 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "java_learning\\codecademy\\lesson1",
-        "java_learning\\codecademy\\lesson2",
-        "java_learning\\codecademy\\lesson3",
-        "java_learning\\codecademy\\lesson4",
-        "java_learning\\codecademy\\lessons1-2-3-4-variables-review",
-        "java_learning\\codecademy"
+        "java_learning/codecademy/lessons1-2-3-4-variables-review",
+        "java_learning/codecademy/lesson4",
+        "java_learning/codecademy/lesson3",
+        "java_learning/codecademy/lesson2",
+        "java_learning/codecademy/lesson1",
+        "java_learning/codecademy",
+        "lesson5FullAndReview"
     ]
 }
