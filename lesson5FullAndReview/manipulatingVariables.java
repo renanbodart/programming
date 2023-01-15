@@ -1,6 +1,6 @@
 public class manipulatingVariables {
   public static void main(String[] args){
-    /*Addition and Subtraction: To addition and subtraction operations*/
+    /*Addition and Subtraction: To addition and subtraction operations use*/
     double value1 = 10000;
     double value2 = 20000;
     double additionOperation = value1 + value2;
