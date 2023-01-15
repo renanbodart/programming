@@ -14,6 +14,13 @@ public class manipulatingVariables {
     double multiplicationOpValue1 = 4;
     double multiplicationOpValue2 = 8;
     double productMultiOp = multiplicationOpValue1 * multiplicationOpValue2;
-    System.out.println(productMultiOp);
+    double divisionValue1 = 8;
+    double divisionValue2 = 4;
+    double productDivOp = divisionValue1 / divisionValue2;
+    System.out.println("The product of multiplication operation is " + productMultiOp);
+    System.out.println("The product of division operation is " + productDivOp);
+
+    // Modulo
+
   }
 }
